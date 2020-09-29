@@ -26,5 +26,4 @@ https://kitsu.docs.apiary.io/
 
 - Display both series type: anime and manga.
 - Scrollable animation on detail page.
-- Include an app icon.
 - Share the series name to all applications available. any UI improvements are welcome.
